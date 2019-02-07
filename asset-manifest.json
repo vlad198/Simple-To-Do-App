@@ -1,13 +1,13 @@
 {
   "main.css": "/Simple-To-Do-App/static/css/main.bf7911a3.chunk.css",
-  "main.js": "/Simple-To-Do-App/static/js/main.bc67b347.chunk.js",
-  "main.js.map": "/Simple-To-Do-App/static/js/main.bc67b347.chunk.js.map",
-  "static/js/1.7d21b07c.chunk.js": "/Simple-To-Do-App/static/js/1.7d21b07c.chunk.js",
-  "static/js/1.7d21b07c.chunk.js.map": "/Simple-To-Do-App/static/js/1.7d21b07c.chunk.js.map",
+  "main.js": "/Simple-To-Do-App/static/js/main.c6244f78.chunk.js",
+  "main.js.map": "/Simple-To-Do-App/static/js/main.c6244f78.chunk.js.map",
+  "static/js/1.b324660b.chunk.js": "/Simple-To-Do-App/static/js/1.b324660b.chunk.js",
+  "static/js/1.b324660b.chunk.js.map": "/Simple-To-Do-App/static/js/1.b324660b.chunk.js.map",
   "runtime~main.js": "/Simple-To-Do-App/static/js/runtime~main.9abee698.js",
   "runtime~main.js.map": "/Simple-To-Do-App/static/js/runtime~main.9abee698.js.map",
   "static/css/main.bf7911a3.chunk.css.map": "/Simple-To-Do-App/static/css/main.bf7911a3.chunk.css.map",
   "index.html": "/Simple-To-Do-App/index.html",
-  "precache-manifest.d86673b4f1258188ffc6e12f05f3102c.js": "/Simple-To-Do-App/precache-manifest.d86673b4f1258188ffc6e12f05f3102c.js",
+  "precache-manifest.c25c1c45ca456364d09c9781f37a4d02.js": "/Simple-To-Do-App/precache-manifest.c25c1c45ca456364d09c9781f37a4d02.js",
   "service-worker.js": "/Simple-To-Do-App/service-worker.js"
 }
