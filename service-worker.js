@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//Simple-To-Do-App/precache-manifest.7047c181d40508a0213ca3a13556c553.js"
+  "//Simple-To-Do-App/precache-manifest.e768b86e72a4eb80feda0a88550c9f93.js"
 );
 
 workbox.clientsClaim();
