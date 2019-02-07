@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "//Simple-To-Do-App/precache-manifest.e768b86e72a4eb80feda0a88550c9f93.js"
+  "/Simple-To-Do-App/precache-manifest.9da1767df4f448efc8575a66e9f1faa0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("//Simple-To-Do-App/index.html", {
+workbox.routing.registerNavigationRoute("/Simple-To-Do-App/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
